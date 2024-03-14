@@ -1,0 +1,7 @@
+if responce.status_code == 200:
+    data = responce.json()
+    for k,v in data.items():
+        if k == 'userId':
+            print(v)
+    print(data)
+    print('Get Request Pass')
