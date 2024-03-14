@@ -1,6 +1,6 @@
 what is beautiful soup?
 
-what is soup api??
+
 
 
 1.What is API?
